@@ -6,4 +6,8 @@ i am successful creating git accout
 
 here data add from gitt4 tut
 
+<<<<<<< HEAD
 here data also from gittut4
+=======
+gere data add from git tut
+>>>>>>> c18d9dc1007fa8ca1c36cc51ce86c99244d3f83f
